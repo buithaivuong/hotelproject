@@ -57,6 +57,7 @@
               <h2 style="margin-bottom: 250px">You haven't booked a room yet.</h2>
             </div>
             @else
+          <div class="container ">
                 <table class="table_deg">
                     <tr>
                         <th class="th_deg">Customer Name</th>
